@@ -1,4 +1,3 @@
-# Webpack5
+[![Build status](https://ci.appveyor.com/api/projects/status/8xch73bfofnsfm6r?svg=true)](https://ci.appveyor.com/project/MaxHugoboss/gnom-game)
 
-[Руководство по настройке Webpack](https://webpack.js.org/guides/)
-[Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
+https://maxhugoboss.github.io/gnom-game/ - GitHub Pages
